@@ -15,7 +15,7 @@
 Proposed solution is two fold.
 
 1. Customer request intention of fuel load slot for a city that the custome expect for.
-2. When fuel available for dispatch into a city/station, the system shall notify the customer with a date and time to obtain fuel.
+2. When fuel load is available for dispatch into a city/station, the system shall notify the customer with a date and time to obtain fuel.
 
 ### Customer Request Flow
 ![alt text](https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/request_fuel_load_slot.drawio.png)
