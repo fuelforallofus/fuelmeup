@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T10:26:41.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.0" etag="ANYpRXhCaYc2SY0jLlLl" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T11:53:36.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MMhH6UtSQ_31stMXr2g9" version="20.2.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Am1nPheef9YovuLmSF4e-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-1" target="Am1nPheef9YovuLmSF4e-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Am1nPheef9YovuLmSF4e-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="653" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-18" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="683" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-20" target="Am1nPheef9YovuLmSF4e-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-20" value="Allocate fuel to be dispatched for a Station&amp;nbsp;by the terminal/depot. In other words for a &amp;lt;CITY_CODE&amp;gt;&lt;br&gt;&lt;br&gt;Ex: Allocate 6000L Petrol for Station X located in the City Y (CITY_CODE=1234)" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="120" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-22" target="Am1nPheef9YovuLmSF4e-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-22" value="Obtain how many vehicles can be filled by the said consignment for each vehicle type (Cars/Bikes/3Wheelers) based on the quota for each type.&lt;br&gt;&lt;br&gt;Ex: Cars 100, Bikes 200, 3W 100" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="120" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-24" target="Am1nPheef9YovuLmSF4e-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-24" value="Filter number of vehicles obtained in the previous step by each type in the requested queue (FIFO basis) for a relevant &amp;lt;CITY_CODE&amp;gt; and mark them as dispatch pending in the Database." style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="118.75" width="250" height="111.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-30" target="Am1nPheef9YovuLmSF4e-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-30" value="Send SMS to request pending customers &quot;Await for a timeslot&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="270" width="250" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-32" target="Am1nPheef9YovuLmSF4e-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-39" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="Am1nPheef9YovuLmSF4e-38">
+          <mxGeometry x="-0.4416" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-32" target="Am1nPheef9YovuLmSF4e-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="544.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-42" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="Am1nPheef9YovuLmSF4e-41">
+          <mxGeometry x="0.2188" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-32" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Fuel dispatched\nto the station?&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:31},{&amp;quot;s&amp;quot;:16,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;font color=&quot;#3a414a&quot;&gt;Fuel received&amp;nbsp;by&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;the station?&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="283.75" width="120" height="126.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-34" target="Am1nPheef9YovuLmSF4e-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-34" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Fuel dispatched\nto the station?&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:31},{&amp;quot;s&amp;quot;:16,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;Fuel dispatch f&lt;/span&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;or the station&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="270" width="110" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-37" target="Am1nPheef9YovuLmSF4e-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-37" value="&lt;font color=&quot;#3a414a&quot;&gt;Station Manager send back dispatch code (via SMS/APP)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="390" width="110" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Am1nPheef9YovuLmSF4e-40" target="Am1nPheef9YovuLmSF4e-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-40" value="&lt;font color=&quot;#3a414a&quot;&gt;Send SMS to customer saying that slot will be delayed.&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="280" width="110" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-45" value="&lt;font color=&quot;#3a414a&quot;&gt;Remove Dispatch pending state for those customers.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="400" width="110" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Am1nPheef9YovuLmSF4e-47" value="&lt;font color=&quot;#3a414a&quot;&gt;Send SMS to relevant customers with a time slot &amp;amp; station (10mins time window)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=2;rounded=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="366.25" width="230" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
