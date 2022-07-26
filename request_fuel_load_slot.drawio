@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T10:56:29.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rtZGKAdi_CHaon8knZjt" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T15:33:36.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PR0h2J4Zf6Q1dPNQ8HcW" version="20.2.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="34dFONOBpZUZkgEqmKqN-5" value="&lt;div&gt;Customer send SMS to XXXX&lt;/div&gt;&lt;div&gt;&amp;lt;CITY_CODE&amp;gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="170" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="34dFONOBpZUZkgEqmKqN-25" value="No" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-9" target="34dFONOBpZUZkgEqmKqN-24">
+        <mxCell id="34dFONOBpZUZkgEqmKqN-25" value="No" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-9" target="34dFONOBpZUZkgEqmKqN-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="34dFONOBpZUZkgEqmKqN-27" value="Yes" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-9" target="34dFONOBpZUZkgEqmKqN-26">
@@ -50,25 +50,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="34dFONOBpZUZkgEqmKqN-24" value="Reserve an available slot for the city requested." style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="500" width="150" height="60" as="geometry" />
+          <mxGeometry x="119" y="480" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34dFONOBpZUZkgEqmKqN-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-26" target="34dFONOBpZUZkgEqmKqN-24">
+        <mxCell id="34dFONOBpZUZkgEqmKqN-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-26" target="34dFONOBpZUZkgEqmKqN-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="34dFONOBpZUZkgEqmKqN-26" value="Cancel existing slot reserved." style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="350" width="137" height="60" as="geometry" />
+          <mxGeometry x="125" y="350" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="34dFONOBpZUZkgEqmKqN-34" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-29" target="34dFONOBpZUZkgEqmKqN-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="34dFONOBpZUZkgEqmKqN-29" value="System send SMS confirming slot reservation unique ID." style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="593" width="150" height="60" as="geometry" />
+          <mxGeometry x="119" y="603" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="34dFONOBpZUZkgEqmKqN-33" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="683" width="70" height="70" as="geometry" />
+          <mxGeometry x="159" y="693" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="34dFONOBpZUZkgEqmKqN-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Notes: &lt;br&gt;&lt;br&gt;- SMSs from none FuelPass registered phones numbers will be ignored.&lt;br&gt;&lt;br&gt;- For smart device login, one login OTP is valid for 24h to minimize SMSC load and session expire in 24h.&lt;br&gt;&lt;br&gt;- CPC shall club few fuel stations together for an area and assign one &amp;lt;CITY_CODE&amp;gt; for them. Fuel station shall display the &amp;lt;CITY_CODE&amp;gt; that the station belongs to. Same can be posted on mass/social media for awareness.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;labelBorderColor=none;glass=0;fontStyle=2;spacingLeft=10;spacingRight=10;fontColor=#1A1A1A;fillColor=#EEEEEE;strokeColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="499" y="320" width="231" height="330" as="geometry" />
+        <mxCell id="34dFONOBpZUZkgEqmKqN-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Notes: &lt;/b&gt;&lt;br&gt;&lt;br&gt;- SMSs from none FuelPass registered phones numbers will be ignored.&lt;br&gt;&lt;br&gt;- For smart device login, one login OTP is valid for 24h to minimize SMSC load and session expire in 24h.&lt;br&gt;&lt;br&gt;- CPC shall club few fuel stations together for an area and assign one &amp;lt;CITY_CODE&amp;gt; for them. Fuel station shall display the &amp;lt;CITY_CODE&amp;gt; that the station belongs to. Same can be posted on mass/social media for awareness.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;labelBorderColor=none;glass=0;fontStyle=2;spacingLeft=10;spacingRight=10;fontColor=#1A1A1A;fillColor=#EEEEEE;strokeColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="390" width="231" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="34dFONOBpZUZkgEqmKqN-40" value="Quota &lt;br&gt;available &lt;br&gt;for &lt;br&gt;the user?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="508" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="34dFONOBpZUZkgEqmKqN-49" value="Yes" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-40" target="34dFONOBpZUZkgEqmKqN-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="373" y="510" as="sourcePoint" />
+            <mxPoint x="230" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34dFONOBpZUZkgEqmKqN-50" value="No" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="34dFONOBpZUZkgEqmKqN-40" target="34dFONOBpZUZkgEqmKqN-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="700" as="sourcePoint" />
+            <mxPoint x="450" y="750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
