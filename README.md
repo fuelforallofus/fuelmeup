@@ -1,8 +1,10 @@
-# Fuel Me Up
+# Fuel Distribution Solution for Sri Lanka (Proposed)
+
+Due to limited supply of fuel in the country, consumers are facing enormous difficulties to get their allocated quota pumped up for their vehicles without a hassle. Considering the need, a group of an independent and voluntary software experts decided to propose a solution to address all the problems listed in the problem statement below. This space is open for more volunteers who would like to contribute for a worthy cause.
 
 ## Problem Statement
 
-1. Limited available stock shall distribute among consumers evenly.
+1. Everyone should get an equal opportunity to get their quota purchased without waiting long lines wasting time on the road.
 2. Consumers shall not waste their time waiting on queues without knowing when they can get their fuel pumped.
 3. Guaranteed amount of fuel should be available for the consumers for the given date and time.
 3. Minimize (or make it zero) misuse of valuable stock by fuel station staff as well as others.
@@ -12,9 +14,10 @@
 
 ## Proposed Solution
 
-Proposed solution is two fold.
+Proposed solution is twofold.
 
-1. Customer request for fuel - intention of fuel load slot for a city that the custome expect for.
+1. Customer request for fuel - intention of fuel load slot for a city that the customer expect for.
+
 2. Fuel dispatch - When fuel load is available for dispatch for a city/station, the system shall notify the customer with a date and time to obtain fuel.
 
 ### Customer Request for fuel Flow Chart
