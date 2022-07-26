@@ -17,6 +17,7 @@ Due to limited supply of fuel in the country, consumers are facing enormous diff
 Proposed solution is twofold.
 
 1. Customer request for fuel - intention of fuel load slot for a city that the customer expect for.
+
 2. Fuel dispatch - When fuel load is available for dispatch for a city/station, the system shall notify the customer with a date and time to obtain fuel.
 
 ### Customer Request for fuel Flow Chart
