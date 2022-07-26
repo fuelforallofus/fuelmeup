@@ -10,3 +10,11 @@
 5. Empower consumers for active feedback mechanism to prevent misconduct by stakeholder.
 
 ## Proposed Solution Flow Chart
+
+Proposed solution is two fold.
+
+1. Customer request intention of fuel load slot for a city that the custome expect for.
+2. When fuel available for dispatch into a city/station, the system shall notify the customer with a date and time to obtain fuel.
+
+### Customer Request Flow
+![alt text](https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/request_fuel_load_slot.drawio.png)
