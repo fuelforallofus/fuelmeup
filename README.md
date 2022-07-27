@@ -4,8 +4,7 @@ Due to limited supply of fuel in the country, consumers are facing enormous diff
 
 ## Problem Statement
 
-1. Everyone should get an equal opportunity to get their quota purchased without waiting long lines wasting time on the road.
-
+1. Every individual should get an equal opportunity to get their fuel quota purchased without waiting long lines wasting time on the road.
 2. When consumers arrive at the fuel station on a given date and time, in less than 10 minutes the customer should be served.
 3. Guaranteed amount of fuel should be available for the consumers for the given date and time.
 3. Minimize (or make it zero) misuse of valuable stock by fuel station staff as well as other stakeholders.
@@ -16,11 +15,11 @@ Due to limited supply of fuel in the country, consumers are facing enormous diff
 ## Proposed Solution
 
 
-Proposed solution is twofold and it is trying to address all the above mentioned problems.
+Proposed solution is twofold and is trying to address problems mentioned in the problems statement.
 
-1. Customer request for fuel - intention of fuel load slot for a city that the customer expect for.
+1. Customer request for a fuel, mentioning the city that the customer expect to get fuel from.
 
-2. Fuel dispatch - When fuel load is available for dispatch for a city/station, the system shall notify the customer with a date and time to obtain fuel.
+2. The system notifies the customer a date and time which you get a guaranteed amount of fuel.
 
 ### Customer Request for fuel Flow Chart
 ![alt text](https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/request_fuel_load_slot.drawio.png)
