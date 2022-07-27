@@ -26,12 +26,12 @@ Proposed solution is twofold and it is trying to address all the above mentioned
 ### Fuel Dispatch Flow Chart
 ![alt text](https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/fuel_dispatch_flow.drawio.png)
 
-# Next Step
+# What is Next?
 1. Proposed solution is up for review. Please review the two flowcharts and provide feedback before 31st July 2022
 
 2. Request ICTA for their preferred technology stack to be used for implementation of the solution.
 
-3. Solution API to be documented.
+3. Solution APIs to be documented.
 
 4. Test infrastructure setup to be installed.
 
