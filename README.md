@@ -39,3 +39,7 @@ Proposed solution is twofold and is trying to address problems mentioned in the 
 5. Let’s get together and implement this solution for all of us.
 
 ## Thank you for your kind contribution!
+
+# Disclaimer
+
+Please note that volunteers of this project neither host nor maintain the production solution. It is up to ICTA to review the solution and deploy in their servers as they prefer. That will prevent sensitive data being exposed to outsiders.
