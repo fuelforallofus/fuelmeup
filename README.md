@@ -17,15 +17,23 @@ Due to limited supply of fuel in the country, consumers are facing enormous diff
 
 Proposed solution is twofold and is trying to address problems mentioned in the problems statement.
 
-1. Customer request for a fuel, mentioning the city that the customer expect to get their fuel from.
+1. Customer request for a fuel, mentioning the city that the customer is expecting to get their fuel from.
 
-2. The system notifies the customer a date and time which you get a guaranteed amount of fuel.
+2. The system notifies the customer a date and time which you get a guaranteed amount of fuel from the requested city.
 
 ### Customer Request for fuel Flow Chart
-![alt text](https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/request_fuel_load_slot.drawio.png)
+
+Customer is required to use the phone number that was used to register on FuelPass system to request a fuel available slot.
+
+<p align="center">
+  <img src="https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/request_fuel_load_slot.drawio.png">
+</p>
 
 ### Fuel Dispatch Flow Chart
-![alt text](https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/fuel_dispatch_flow.drawio.png)
+
+<p align="center">
+  <img src="https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/fuel_dispatch_flow.drawio.png">
+</p>
 
 # What is Next?
 1. Proposed solution is up for review. Please review the two flowcharts and provide feedback before 31st July 2022
