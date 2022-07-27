@@ -22,6 +22,9 @@ Proposed solution is twofold and is trying to address problems mentioned in the 
 2. The system notifies the customer a date and time which you get a guaranteed amount of fuel.
 
 ### Customer Request for fuel Flow Chart
+
+Customer is required to use the phone number that was used to register on FuelPass system to request a fuel available slot.
+
 ![alt text](https://github.com/fuelforallofus/fuelmeup/blob/p1_dev/request_fuel_load_slot.drawio.png)
 
 ### Fuel Dispatch Flow Chart
