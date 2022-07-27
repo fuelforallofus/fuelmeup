@@ -17,6 +17,7 @@ Due to limited supply of fuel in the country, consumers are facing enormous diff
 
 Proposed solution is twofold and is trying to address problems mentioned in the problems statement.
 
+
 1. Customer request for fuel, mentioning the city that the customer is expecting to get their fuel from.
 
 > Feature phones users Send SMS with your city code XXXX to 1919. Smart phone users can login to FuelPass portal and select your city and click "Request Fuel"
