@@ -4,6 +4,7 @@ Due to limited supply of fuel in the country, consumers are facing enormous diff
 
 ## Problem Statement
 
+
 1. Every individual should get an equal opportunity to get their fuel quota purchased without waiting long lines wasting time on the road.
 2. When consumers arrive at the fuel station on a given date and time, in less than 10 minutes the customer should be served.
 3. Guaranteed amount of fuel should be available for the consumers for the given date and time.
@@ -14,10 +15,9 @@ Due to limited supply of fuel in the country, consumers are facing enormous diff
 
 ## Proposed Solution
 
-
 Proposed solution is twofold and is trying to address problems mentioned in the problems statement.
 
-1. Customer request for a fuel, mentioning the city that the customer expect to get fuel from.
+1. Customer request for a fuel, mentioning the city that the customer expect to get their fuel from.
 
 2. The system notifies the customer a date and time which you get a guaranteed amount of fuel.
 
