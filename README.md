@@ -3,20 +3,18 @@
 Due to limited supply of fuel in the country, consumers are facing enormous difficulties to get their allocated quota pumped up for their vehicles without a hassle. Considering the need, a group of an independent and voluntary software experts decided to propose a solution to address all the problems listed in the problem statement below. This space is open for more volunteers who would like to contribute for a worthy cause.
 
 ## Problem Statement
+Customers are waiting in the line on the road unknowingly when can get their allocated fuel quota pumped up for their vehicles.
 
+## Proposed Solution Goals
 
-1. Every individual should get an equal opportunity to get their fuel quota purchased without waiting long lines wasting time on the road.
-2. When consumers arrive at the fuel station on a given date and time, in less than 10 minutes the customer should be served.
-3. Guaranteed amount of fuel should be available for the consumers for the given date and time.
-3. Minimize (or make it zero) misuse of valuable stock by fuel station staff as well as other stakeholders.
-4. Smart phones as well as feature phones (if possible, no phone at all) users should be able to use the proposed solution without a hassle.
-5. Empower consumers for active feedback mechanism to prevent misconduct by stakeholder.
-6. None-tech savvy people friendly solution.
+1. Every individual should get their guaranteed fuel quota purchased in less than 10 mins in the line on the road.
+2. Smart phones as well as feature phones users should be able to use the proposed solution without a hassle.
+3. Availability of a Smart Phone with Fuel station staff should not be a mandatory requirement.
+4. Minimize or eradicate misconduct/misuse of the system, by all stakeholders introducing active actionable feedback mechanism.
 
 ## Proposed Solution
 
 Proposed solution is twofold and is trying to address problems mentioned in the problems statement.
-
 
 1. Customer request for fuel, mentioning the city that the customer is expecting to get their fuel from.
 
